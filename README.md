@@ -1,4 +1,4 @@
-# 📈 Website Traffic User Behavior Overview– SQL + Power BI Project
+# 📈 Website Traffic & User Behavior Overview– SQL + Power BI Project
 
  **Domain:** Web Analytics | User Behavior Insights | Marketing Analytics  
  **Tools Used:** SQL (MySQL) • Power BI
