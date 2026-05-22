@@ -1,4 +1,4 @@
-# 📈 Website Traffic & User Behavior Overview– SQL + Power BI Project
+# 📈 Multi-Country Website Traffic & User Behavior 
 
 ## Business Problem:
 A digital business operating across 7 countries lacked a consolidated view of website engagement — making it hard to understand device preferences, high-traffic pages, returning user behavior, and which UI elements were driving conversions.
