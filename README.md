@@ -79,7 +79,9 @@ Avg 15-minute session duration signals deep content engagement
 ## Impact: 
 
 Insights directly guided UX team to prioritize mobile-responsive redesign; conversion funnel analysis of top-clicked elements helped optimize CTA placement; country-level data enabled targeted regional campaigns.
-Dashboard Output: Power BI single-page dashboard with KPI cards, sessions timeline, device donut chart, top pages table, UI element treemap, and 7-country filter toggle.
+
+## Dashboard Output:
+Power BI single-page dashboard with KPI cards, sessions timeline, device donut chart, top pages table, UI element treemap, and 7-country filter toggle.
 
 
 
