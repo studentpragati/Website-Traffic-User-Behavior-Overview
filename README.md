@@ -68,7 +68,7 @@ Built a top pages by views table listing Homepage, About, Product, Contact, Blog
 Designed a treemap for most-clicked UI elements — Sign Up, Explore Plans, Subscribe Button, Learn More, Book Demo
 Added country-level toggle filters for drilling into specific markets
 
-Key Insights:
+## Key Insights:
 
 56% returning users indicates strong content stickiness and brand loyalty
 Mobile accounts for nearly half of all sessions — mobile-first design is critical
@@ -76,7 +76,9 @@ Mobile accounts for nearly half of all sessions — mobile-first design is criti
 UK was the most active country in the selected filter view
 Avg 15-minute session duration signals deep content engagement
 
-Impact: Insights directly guided UX team to prioritize mobile-responsive redesign; conversion funnel analysis of top-clicked elements helped optimize CTA placement; country-level data enabled targeted regional campaigns.
+## Impact: 
+
+Insights directly guided UX team to prioritize mobile-responsive redesign; conversion funnel analysis of top-clicked elements helped optimize CTA placement; country-level data enabled targeted regional campaigns.
 Dashboard Output: Power BI single-page dashboard with KPI cards, sessions timeline, device donut chart, top pages table, UI element treemap, and 7-country filter toggle.
 
 
